@@ -5,11 +5,13 @@
 
 # Requisitos para correr el bot
 
-*********Nodejs 12.3^ (Yo uso node 18.1 actualmente).*********
+*********Nodejs v12.3^ (Yo uso node 18.1 actualmente).*********
 
-*********Qr-terminal 0.10^.*********
+*********Qr-terminal v0.10^.*********
 
-*********Whatsapp-web.js 1.0^.*********
+*********Whatsapp-web.js v1.0^.*********
+
+*********Nodemon v1.9^ (yo uso 2.0.20).*********
 
 # Pasos de la instacion
 
