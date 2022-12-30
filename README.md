@@ -18,6 +18,8 @@ Un repositorio, en el cual entrarás un cliente/bot del WhatsApp web utilizando 
 
 ***npm run app-win***  - Corre el bot de modo compatible solo con windows , usando node js.
 
+*********Windows con CMD Developer Mode:*********
+
 ***npm run app-win-dev*** - Corre el bot, en un entorno de devoping, usando nodemon , tambien compatible solo con windows.
 
 ***npm run bot-win-dev*** - Corre el bot, en un entorno de devoping, usando nodemon , tambien compatible solo con windows.
