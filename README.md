@@ -3,6 +3,14 @@ Un repositorio, en el cual entrarás un cliente/bot del WhatsApp web utilizando 
 
 ***Api utilizada: https://wwebjs.dev/***
 
+# Requisitos para correr el bot
+
+*********Nodejs 12.3^.*********
+
+*********Qr-terminal 0.10^.*********
+
+*********Whatsapp-web.js 1.0^.*********
+
 # Pasos de la instacion
 
 1. ***Clonar el repositiorio y dirigirse dentro de la carpeta "WP-BOT-source-code"***.
