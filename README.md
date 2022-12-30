@@ -5,7 +5,7 @@ Un repositorio, en el cual entrarás un cliente/bot del WhatsApp web utilizando 
 
 # Requisitos para correr el bot
 
-*********Nodejs 12.3^.*********
+*********Nodejs 12.3^. (Yo uso node 18.1 actualmente)*********
 
 *********Qr-terminal 0.10^.*********
 
