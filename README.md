@@ -15,7 +15,7 @@
 
 1. ***Clonar el repositiorio y dirigirse dentro de la carpeta "WP-BOT-source-code"***.
 
-2. ***Una vez alli, instalar las dependencias con nodejs, ejecutando***.
+2. ***Una vez alli, instalar las dependencias automaticamente con nodejs, ejecutando***.
 > *********npm i --save*********
 
 3. ***Tienes varios modos de ejecucion , dependiendo del sistema operativo,  en el cual estees corriendo el bot.***
