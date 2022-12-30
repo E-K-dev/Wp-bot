@@ -3,9 +3,9 @@ Un repositorio, en el cual entrarás un cliente/bot del WhatsApp web utilizando 
 
 ***Api utilizada: https://wwebjs.dev/***
 
-Pasos de la instacion
+# Pasos de la instacion
 
-1. ***Clonar el repositiorio y dirigirse denttro de la carpeta "WP-BOT"***.
+1. ***Clonar el repositiorio y dirigirse dentro de la carpeta "WP-BOT"***.
 
 2. ***Una vez alli, instalar las dependencias con nodejs, ejecutando***.
 > *********npm i --save*********
