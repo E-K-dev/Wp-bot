@@ -3,6 +3,8 @@ Un repositorio, en el cual entrarás un cliente/bot del WhatsApp web utilizando 
 
 ***Api utilizada: https://wwebjs.dev/***
 
+***Guia de la api utilizada: https://wwebjs.dev/guide/***
+
 # Requisitos para correr el bot
 
 *********Nodejs 12.3^ (Yo uso node 18.1 actualmente).*********
