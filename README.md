@@ -1,6 +1,4 @@
 # *********WP-BOT v 0.6*********
-Un repositorio, en el cual entrarás un cliente/bot del WhatsApp web utilizando NodeJs como lenguaje y Whatsapp-web.js como framework.
-
 ***Api utilizada: https://wwebjs.dev/***
 
 ***Guia de la api utilizada: https://wwebjs.dev/guide/***
