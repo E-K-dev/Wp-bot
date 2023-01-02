@@ -1,0 +1,9 @@
+{
+	"scriptdata": {
+		"version": "0.7",
+		"author": "Ek-dev",
+		"lastversion": true,
+		"language": "es",
+		"description": "WP-BOT.JS - Un bot creado con node js"
+	}
+}

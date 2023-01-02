@@ -1,0 +1,7 @@
+{
+	"commands": [
+        "saludo", 
+        "despedida", 
+        "help"
+    ]
+}
