@@ -1,6 +1,5 @@
-# *********WP-BOT v 0.7*********
-# Cambios / Improvements v0.7
- > *********En esta actualizacion , se agrego archivos json, en los cuales podras modificar y/o agregar comandos de manera mas sencilla.*********
+# WP-BOT v 0.7 | Mejoras #
+> *********En esta actualizacion , se agrego archivos json, en los cuales podras modificar y/o agregar comandos de manera mas sencilla.*********
  
  > *********Se simplifico el codigo.*********
 
