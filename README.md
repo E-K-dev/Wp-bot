@@ -1,11 +1,11 @@
 # WP-BOT v 0.7 | Mejoras #
-> *********En esta actualizacion , se agrego archivos json, en los cuales podras modificar y/o agregar comandos de manera mas sencilla.*********
+* *********En esta actualizacion , se agrego archivos json, en los cuales podras modificar y/o agregar comandos de manera mas sencilla.*********
  
-> *********Se simplifico el codigo.*********
+* *********Se simplifico el codigo.*********
 
-> *********Se dividio el codigo y se creo una instancia de "modulos", en los cuales, el script obtendra los datos de manera mas ordenada.*********
+* *********Se dividio el codigo y se creo una instancia de "modulos", en los cuales, el script obtendra los datos de manera mas ordenada.*********
 
-> *********Se añadio mas comentarios sobre las partes del codigo.*********
+* *********Se añadio mas comentarios sobre las partes del codigo.*********
 
 ## Api
 ***Api utilizada: https://wwebjs.dev/***
@@ -14,11 +14,11 @@
 
 ## Requisitos para correr el bot
 
-*********Nodejs v12.3^ (Yo uso node 18.1 actualmente).*********
+* Nodejs v12.3^ (Yo uso node 18.1 actualmente).
 
-*********Qr-terminal v0.10^.*********
+* Qr-terminal v0.10^.
 
-*********Whatsapp-web.js v1.0^.*********
+* Whatsapp-web.js v1.0^.
 
 ## Pasos de la instacion
 
